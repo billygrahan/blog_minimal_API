@@ -103,4 +103,4 @@ C:\Users\Billy Grahan\Documents\blog_minimal_API\obj\Debug\net8.0\refint\blog_mi
 C:\Users\Billy Grahan\Documents\blog_minimal_API\obj\Debug\net8.0\blog_minimal_API.pdb
 C:\Users\Billy Grahan\Documents\blog_minimal_API\obj\Debug\net8.0\blog_minimal_API.genruntimeconfig.cache
 C:\Users\Billy Grahan\Documents\blog_minimal_API\obj\Debug\net8.0\ref\blog_minimal_API.dll
-C:\Users\Billy Grahan\Documents\blog_minimal_API\obj\Debug\net8.0\blog_minimal_API.csproj.CopyComplete
+C:\Users\Billy Grahan\Documents\blog_minimal_API\obj\Debug\net8.0\blog_min.6D6F04E1.Up2Date
